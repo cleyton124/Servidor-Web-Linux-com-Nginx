@@ -216,11 +216,3 @@ Durante este laboratório foi possível compreender:
 * Como automatizar tarefas administrativas
 * Como monitorar recursos do sistema
 * Como resolver problemas comuns em ambientes Linux
-
----
-
-# Autor
-
-Cleyton
-
-Estudante de Engenharia da Computação com foco em Linux, Cloud Computing, AWS e Infraestrutura.
